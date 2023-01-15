@@ -1,0 +1,82 @@
+Network Infrastructure Configuration
+Application Platform Configuration
+File Extensions Handling Sensitive Information
+ Review Old Backup and Unreferenced Files Sensitive Information
+ Enumerate Infrastructure and Application Admin Interfaces
+HTTP Methods
+HTTP Strict Transport Security
+RIA Cross Domain Policy
+File Permission
+Subdomain Takeover
+Cloud Storage
+ Identity Management 
+Role Definitions
+User Registration Process
+Account Provisioning Process
+Account Enumeration and Guessable User Account
+Weak or Unenforced Username Policy
+ Authentication 
+Credentials Transported over an Encrypted Channel
+Default Credentials
+Weak Lock Out Mechanism
+Bypassing Authentication Schema
+Vulnerable Remember Password
+Browser Cache Weaknesses
+Weak Password Policy
+Weak Security Question Answer
+Weak Password Change or Reset Functionalities
+Weaker Authentication in Alternative Channel
+ Authorization 
+Directory Traversal File Include
+Bypassing Authorization Schema
+Privilege Escalation
+Insecure Direct Object References
+ Session Management 
+Session Management Schema
+Cookies Attributes
+Session Fixation
+Exposed Session Variables
+Cross Site Request Forgery
+Logout Functionality
+Session Timeout
+Session Puzzling
+ Input Validation 
+Reflected Cross Site Scripting
+Stored Cross Site Scripting
+HTTP Verb Tampering
+HTTP Parameter Pollution
+SQL Injection
+Oracle
+MySQL
+SQL Server
+PostgreSQL
+MS Access
+NoSQL Injection
+ORM Injection
+Client Side
+LDAP Injection
+XML Injection
+SSI Injection
+XPath Injection
+IMAP SMTP Injection
+Code Injection
+Local File Inclusion
+Remote File Inclusion
+Command Injection
+Buffer Overflow
+Heap Overflow
+Stack Overflow
+Format String
+Incubated Vulnerability
+HTTP Splitting Smuggling
+HTTP Incoming Requests
+Host Header Injection
+Server Side Template Injection
+Error Handling
+Error Code
+Stack Traces
+Weak Cryptography
+Weak SSL TLS Ciphers Insufficient Transport Layer Protection
+Padding Oracle
+Sensitive Information Sent via Unencrypted Channels
+Weak Encryption
